@@ -15,3 +15,6 @@ By showing where another branch is started and its commits
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The changes introduced in both branches will be merged in one. To show graphically that.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+The pros are that makes the merge widely easy compared to going manually, but when there is a conflict allows to manually solved and merge properly.
