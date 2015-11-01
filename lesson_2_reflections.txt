@@ -12,3 +12,6 @@ When you want to try a new feature, creating another branch will allow to experi
 
 How do the diagrams help you visualize the branch structure?
 By showing where another branch is started and its commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The changes introduced in both branches will be merged in one. To show graphically that.
