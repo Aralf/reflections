@@ -6,3 +6,6 @@ It's a middle step between the working directory and the repository. You don't h
 
 How can you use the staging area to make sure you have one commit per logical change?
 By adding only the files that are modified with that logical change
+
+What are some situations when branches would be helpful in keeping yout history organized? How would branches help?
+When you want to try a new feature, creating another branch will allow to experiment with that feature without affecting the main branch, which can continue to improve by solving bugs. At the end, if you the new feature works, you can merge both branches into one which will have the bug fixes AND the new feature.
