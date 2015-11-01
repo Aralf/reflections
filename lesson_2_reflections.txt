@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 You create an empty Git repository (no commits). You need to do it in order yo have a version-control of the files and use commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It's a middle step between the working directory and the repository. You don't have to add to the repository all the files from your working directory, so this stagging area allows yo tou choose which files you want to keep a control.
