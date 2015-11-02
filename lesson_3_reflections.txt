@@ -3,3 +3,9 @@ When I want to share my repository to others, for collaboration, open-source, et
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 To be able to control what I want to sync between GitHub and local. For example if a pull from someone else repository and work in a new thing, I will not want to pull any new change that is added to the remote repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- Fork: directly copies to your github the repository of other person, acknowledging its creation.
+- Clone: copy to your computer a repository from other computer or Github
+- Branches: diverge the development of the repository.
+If you want work on other person's repository use clone, by using also branches you can modify it without altering the original and at the end merge both. Instead if you want to take the repository and change it to a different way without wanting to contribute with the original, then fork it. 
