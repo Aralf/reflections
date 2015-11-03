@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 - Clone: copy to your computer a repository from other computer or Github
 - Branches: diverge the development of the repository.
 If you want work on other person's repository use clone, by using also branches you can modify it without altering the original and at the end merge both. Instead if you want to take the repository and change it to a different way without wanting to contribute with the original, then fork it. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+To work on it offline, for example in an airplane, and then be able to check any updates in the remote without affecting fours; and viceversa.
